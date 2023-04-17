@@ -2,7 +2,7 @@
 
 Shalt thou not fear the risk of summoning dã̤͔̚eḿ̡̖̏҃o̥̙҆҆͡ṅs̹̯̈́̍͡ by typing, beest thou in proper repo.
 
-The program requires no installation. Build it with `build.sh`, start with `helltexter.exe` and stop with `uninstall.exe`.
+The program requires no installation. Build it with `build.bat`, start with `helltexter.exe` and stop with `uninstall.exe`.
 
 Happy summoning.
 
